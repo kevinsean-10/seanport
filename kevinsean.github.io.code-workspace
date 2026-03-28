@@ -4,5 +4,12 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"workbench.colorTheme": "paddy-wolf", // Memaksa pakai tema Dark Modern khusus di proyek ini
+		"workbench.iconTheme": "vs-seti",
+		"workbench.colorCustomizations": {
+			"titleBar.activeBackground": "#5e0000", // Ubah title bar jadi merah gelap (cocok untuk repo Production/Critical)
+			"titleBar.activeForeground": "#ffffff"
+		}
+	}
 }
